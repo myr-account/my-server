@@ -1,0 +1,29 @@
+{
+  "name": "my-server",
+  "version": "1.0.0",
+  "description": "node server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yugimamidi/my-server.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node.js",
+    "web",
+    "server"
+  ],
+  "author": "Yugandhar Mamidi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yugimamidi/my-server/issues"
+  },
+  "homepage": "https://github.com/yugimamidi/my-server#readme",
+  "dependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
