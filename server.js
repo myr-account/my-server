@@ -10,7 +10,7 @@ const server = http.createServer((req, res) => {
   res.setHeader('Content-Type', 'text/plain')
   res.write('Hello...\n')
   res.write('Hello...\n')
-  res.end('Hello World! This is a sample test of my-server using node.js \n')
+  res.end('Hello World! This is a sample server test using node \n')
 })
 
 // start listening
